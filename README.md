@@ -1,2 +1,2 @@
 # Library-management
-#code to manage a class Library in Java
+A class of objects with attributes representing a Library 
